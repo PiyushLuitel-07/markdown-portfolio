@@ -1,4 +1,4 @@
-Replace this with a li### Solar System Exploration, 1950s – 1960s
+### Solar System Exploration, 1950s – 1960s
 
 - [ ] Mercury
 - [x] Venus
